@@ -4,5 +4,5 @@ public class MyClass {
     public static void prinlnAny() {
         System.out.println("a");
     }
-    //LaoGe, finish you code below, thanks!
+    //LaoGe, finish your fxxing code below, thanks!
 }
